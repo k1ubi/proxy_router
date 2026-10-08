@@ -1,20 +1,5 @@
 <div align="center">
-
-```
-____________ _______   ____   __ ______ _____ _   _ _____ ___________ 
-| ___ \ ___ \  _  \ \ / /\ \ / / | ___ \  _  | | | |_   _|  ___| ___ \
-| |_/ / |_/ / | | |\ V /  \ V /  | |_/ / | | | | | | | | | |__ | |_/ /
-|  __/|    /| | | |/   \   \ /   |    /| | | | | | | | | |  __||    / 
-| |   | |\ \\ \_/ / /^\ \  | |   | |\ \\ \_/ / |_| | | | | |___| |\ \ 
-\_|   \_| \_|\___/\/   \/  \_/   \_| \_|\___/ \___/  \_/ \____/\_| \_|
-```
-
-`[ neo-regeorg tunnel orchestration :: socks5 injection :: proxychains autopilot ]`
-
-![python](https://img.shields.io/badge/PYTHON-3.x-ff00c8?style=for-the-badge&logo=python&logoColor=00fff9&labelColor=0a0014)
-![license](https://img.shields.io/badge/LICENSE-GPLv3-00fff9?style=for-the-badge&labelColor=0a0014)
-![status](https://img.shields.io/badge/STATUS-OPERATIONAL-ff00c8?style=for-the-badge&labelColor=0a0014)
-
+<img src="./assets/hero.svg" width="100%"/>
 </div>
 
 <br>
